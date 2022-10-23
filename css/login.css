@@ -1,0 +1,30 @@
+#invalid-login {
+    color: red;
+    display: none;
+}
+
+.login-class {
+    margin: auto;
+    background-color: yellow;
+    padding: 100px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+	width: 200;
+	height: 150px;
+    transform: translate(-50%, -50%);
+    box-shadow: rgba(0, 0, 0, 0.58) 0px 22px 70px 4px;
+}
+
+#password {
+    padding-top: 50px;
+}
+
+#login-button {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.button {
+    background-color: rgba(10, 208, 10, 0.779);
+}
